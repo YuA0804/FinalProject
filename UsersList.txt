@@ -1,0 +1,4 @@
+{userLogin = AaBbCc123; userName = Jane-Glen; status = user;}
+{userLogin = ZzXxCc456; userName = Louie Anderson; status = user;}
+{userLogin = qwerty; userName = Andy Larkin; status = admin;}
+{userLogin = 123456789; userName = Winny Nasta; status = user;}
